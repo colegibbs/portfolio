@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: white;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -437,4 +437,16 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+#portfolio {
+	background-color: whitesmoke;
+}
+
+#skills {
+	background-image: url(../public/images/background-image.jpg);
+}
+
+#resume {
+	background-color: blue;
 }
