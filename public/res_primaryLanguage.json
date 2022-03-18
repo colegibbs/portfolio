@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Cole Gibbs. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome, Visitors",
+      "description": "Hi my name is Cole Gibbs and I’m a Full Stack Python Developer. Before transitioning to Software Development, I was pursuing a Chemistry degree, but I took a coding class as an elective and was hooked. I then transitioned to a rigorous programming boot camp at Code Fellows, which has prepared me to be a strong asset to your company. I’m a strategic and logical thinker, love solving problems and working through challenges, and I’m a great collaborator.  These traits help make me a great programmer and a valuable team member. I am committed, creative, project orientated and can’t wait to join a team and use my passion and skills to create cool product",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
