@@ -1,3 +1,1 @@
-# Modify this portfolio
-
-Make it your own! 
+# [Depolyed Site](https://cole-gibbs-portfolio.netlify.app/)
